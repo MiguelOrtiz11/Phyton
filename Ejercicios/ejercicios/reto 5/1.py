@@ -33,10 +33,6 @@ def current_date_format(date):
 now = datetime.now()
 print(current_date_format(now))
 
-    
-
-
-
 
 # opciones 
 
