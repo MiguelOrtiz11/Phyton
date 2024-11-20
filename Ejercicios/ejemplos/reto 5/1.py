@@ -1,6 +1,7 @@
-#menu "registrar partido, ver resultados, tabla de clasificacion, salir"
-#funciones "fecha, goles unab, goles equipo rival, nombre del equipo rival, nombre de la unab"
-#mejor desarrolar con listas (burbuja)
+# menu "registrar partido, ver resultados, tabla de clasificacion, salir"
+# funciones "fecha, goles unab, goles equipo rival, nombre del equipo rival, 
+# nombre de la unab"
+# mejor desarrolar con listas (burbuja)
 
 from datetime import datetime
 from datetime import timedelta

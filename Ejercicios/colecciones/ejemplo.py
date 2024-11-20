@@ -1,4 +1,4 @@
-numero = int(input("Dígame cuántas palabras tiene la lista: "))
+numero = int(input("Cuantas palabras va a contener la lista: "))
 
 if numero < 1:
     print("¡Imposible!")
